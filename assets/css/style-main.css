@@ -6,7 +6,7 @@ HEADER ( couleur de texte)
 
 */
 header {
-  transition: background-color 2s ease; /* Transition douce sur 0.5 seconde */
+  transition: background-color 2s ease; /* Transition lente */
 }
 
 header:hover {
